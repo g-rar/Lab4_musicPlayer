@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab4_musicPlayer</string>
+    <string name="str_btnPreviousContentDes">Previous Button</string>
+    <string name="str_btnStopContentDes">Stop Button</string>
+    <string name="str_btnPlayPauseContentDes">Play or Pause Button</string>
+    <string name="str_btnNextContentDes">Next Button</string>
+    <string name="str_volumeLabel">Volume</string>
+    <string name="str_rowContentDes">Imagen de cancion</string>
+    <string name="str_songStrPlaceholder">Song No 1.</string>
+    <string name="str_artistiPlaceholder">Artist</string>
+    <string name="str_durationPlacheholder">00:00</string>
+</resources>
